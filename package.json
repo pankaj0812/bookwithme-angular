@@ -24,7 +24,7 @@
     "@angular/router": "^5.2.0",
     "bootstrap": "^4.1.0",
     "core-js": "^2.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "mongodb": "3.0.0",
     "mongoose": "5.0.15",
